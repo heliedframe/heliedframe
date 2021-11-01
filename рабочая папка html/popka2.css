@@ -1,0 +1,102 @@
+body{
+	background: #363636;
+	color: white;
+	font-family: Arial;
+}
+.art{
+	padding: 10px 10px;
+	color: grey;
+}
+.hf{
+	color: white;
+	padding: 5px;
+    border: 5px;
+    border-color: whitesmoke;
+}
+.h11{
+	text-align: center;
+	padding: 10px 0px;
+}
+.sectionglobal{
+	background: #474747;
+	margin: 10px 150px;
+	border-radius: 5px;
+}
+strong{
+	color: whitesmoke;
+}
+.ossm{
+	padding: 20px 100px;
+}
+.h22{
+	text-align: center;
+}
+.osmal{
+	width: 400px;
+	padding: 0px 300px;
+}
+.fleks{
+	margin: 0px 250px;
+}
+.p1{
+	text-align: center;
+	color: grey;
+}
+.imgsaske{
+	width: 200px;
+	padding: 0px 20px;
+}
+.internetman{
+	padding: 0px 20px;
+	width: 200px;
+}
+.narpop{
+	width: 200px;
+	padding: 0px 20px;
+}
+.ligakuba{
+	width: 200px;
+}
+.globalsection2{
+	width:150px;
+	height: 50px;
+	padding: 5px 5px;
+	border-color: grey;
+	border-top: 0px;
+	border-left: 0px;
+	border-radius: 5px;
+
+}
+.globalingsex{
+	background: #474747;
+	border-radius: 10px;
+}
+.imgclass{
+	width: 150px;
+	height: 50px;
+	border-color: grey;
+	border-top: 0px;
+	padding: 5px 5px;
+	border-radius: 5px;
+}
+.ismaper{
+	width: 150px;
+	height: 50px;
+	padding: 5px 5px;
+	border-color: grey;
+	border-top: 0px;
+	border-radius: 5px;
+}
+.donat{
+	padding: 5px 5px;
+	width: 150px;
+	height: 50px;
+	border-color: grey;
+	border-top: 0px;
+	border-radius: 5px;
+}
+
+
+
+
+
